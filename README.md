@@ -17,6 +17,12 @@ Team member :SWATHI D
 PROJECT DESCRIPTION:
 
      
-STATEMENT:  It is hard to keep in track with every single medical history of a patient,from major operations to small pills that she/he intakes. Especially it's difficult for old age people to remember the appointments,keep their reports safely and medical insurance details.And the processes of filling the forms,dailing to the hospitals to know about appointments each time is hectic and time consuming,the same for the hospital sides too like attending phones calls to book and recheck the appointments,verify medical insurance for each person are big tasks.
+STATEMENT:  Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare
 
-SOLUTION:  The main goal of this project is to keep track about each patients mediacal deatils (Medical Insurance,Appointments,Medical reports)in the form of database,where each patients also have an access to verify those medical and health details.This analytics stores all the data in a database which is kwpt under the wraps,secured by Government.
+Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
+
+This parameter helps hospitals to identify patients of high LOS-risk (patients who will stay longer) at the time of admission. Once identified, patients with high LOS risk can have their treatment plan optimized to minimize LOS and lower the chance of staff/visitor infection. Also, prior knowledge of LOS can aid in logistics such as room and bed allocation planning.
+
+Suppose you have been hired as Data Scientist of Health Man – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner.
+
+bookGoal: The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
